@@ -1,33 +1,32 @@
-# {Package Name}
+# UI System
 
-{Package Description}
+The source code of the UI System for Unity engine.
 
 ## Resources
 
-- [Example.com](https://www.example.com)
+- [Discord(discord)
 
 ## Getting Started
 
 ### Prerequisites
 
-- Unity {Required Unity Version}
+- Unity 2019.4
 
 ### Download
 
 - Clone the project:
 
 ```bash
-git clone https://www.example.com
+git clone https://github.com/BayatAssetStore/UISystem.git
 ```
 
-- [Download the latest release](https://www.example.com)
-- [Download the latest unity package from Unity Asset Store](https://www.example.com)
+- [Download the latest release](https://github.com/BayatAssetStore/UISystem/releases/latest)
 
 ### Contribute
 
 > We’re excited that you’re interested in contributing! Take a moment to read [`CONTRIBUTING.md`](contribute).
 
-Launch the project using the Unity {Required Unity Version} and start contributing!
+Launch the project using the Unity 2019.4 and start contributing!
 
 ## License
 
@@ -44,3 +43,5 @@ Made with ❤️ by [Bayat][author]
 [author]: https://bayat.io
 
 [contribute]: https://github.com/BayatAssetStore/.github/blob/main/CONTRIBUTING.md
+
+[discord]: https://discord.com/invite/HWMqD7T
