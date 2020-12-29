@@ -4,7 +4,7 @@ The source code of the UI System for Unity engine.
 
 ## Resources
 
-- [Discord(discord)
+- [Discord][discord]
 
 ## Getting Started
 
